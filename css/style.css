@@ -1,0 +1,26 @@
+h1 {
+  color:  #0000cc;
+  background-color: gray;
+  border: 5px solid brown;
+}
+
+p {
+  color:  #6633ff;
+
+  border: 3px solid red;
+  /*outline: 5px solid purple;*/
+  outline-offset: 5px;
+  outline: 2px solid green;
+
+}
+
+
+
+#box {
+  width: 250px;
+  height: 300px;
+  border: 2px solid black;
+  overflow: scroll;
+  border: 2px solid black;
+
+}
